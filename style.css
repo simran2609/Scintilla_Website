@@ -1,0 +1,87 @@
+
+
+body{
+   margin:0.5px;
+}
+nav a{
+   
+   text-decoration: none;
+   text-align: center;
+   color: white;
+   padding: 20px;
+   float:left ;
+}
+
+nav a:hover{
+color: blueviolet;
+}
+
+nav{
+   background-color: rgba(147, 112, 216, 0.582);
+   overflow:hidden;
+}
+
+.donate{
+   font-weight: bold;
+   font-size: 40px;; 
+   text-align:center;
+   color:rgb(104, 104, 104)
+}
+
+
+.Simran{
+   text-decoration: none;
+   color: black;
+}
+
+.Simran:hover{
+   color: mediumpurple;
+}
+
+#email,
+#phonenumber{
+   width:27%
+}
+
+#firstname, #lastname{
+  
+      width: 12.25%;
+      background-color: #fcfcfc;
+      border: 0;
+      border-bottom: 2px solid lightgrey;
+      padding: 10px;
+    }
+
+    #donatebutton{
+      text-align: center;
+      width:10%;
+      color: #fcfcfc;
+      background-color: rgba(147, 112, 216, 0.637);
+     cursor: pointer;
+    }
+
+
+
+
+
+input {
+   width: 100%;
+   background-color: #fcfcfc;
+   border: 0;
+   border-bottom: 2px solid lightgrey;
+   padding: 10px;
+ }
+
+.contactinfo{
+   padding: 10px;
+   margin: 5px;
+   border:
+}
+
+footer{
+   text-align: center;
+   background-color: rgb(224, 224, 224);
+   overflow:hidden;
+   
+}
+
